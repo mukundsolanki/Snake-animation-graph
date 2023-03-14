@@ -1,3 +1,4 @@
+  ![Snake animation](https://github.com/mukundsolanki/mukundsolanki/blob/output/github-contribution-grid-snake.svg)
 
 # Snake-Animation-in Profile Readme
 
